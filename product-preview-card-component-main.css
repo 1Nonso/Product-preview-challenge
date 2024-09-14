@@ -64,6 +64,10 @@ button {
   align-items: center;
 }
 
+.old-price {
+  text-decoration: line-through;
+}
+
 button {
   width: 100%;
   color: #fff;
